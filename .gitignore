@@ -11,8 +11,8 @@
 #/CertBackup
 #/client/.env
 /server/assets
-/server/Logs
-/server/node_modules
+#/server/Logs
+#/server/node_modules
 #/server/keys
 
 #/server/.env
